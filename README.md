@@ -4,4 +4,4 @@ This is a gadget to the WSO2 Identity Server Dashboard which lets users to gener
 
 <h3>Deployment</h3>
 
-Copy the folder to &lt;IS_HOME&gt;repository/deployment/server/jaggeryapps/portal/gadgets/ and make the relevent changes in &lt;IS_HOME&gt;repository/deployment/server/jaggeryapps/dashboard/index.jag and in &gt;IS_HOME>repository/deployment/server/jaggeryapps/dashboard/ui-components.json
+Copy the folder to &lt;IS_HOME&gt;repository/deployment/server/jaggeryapps/portal/gadgets/ and make the relevent changes in &lt;IS_HOME&gt;repository/deployment/server/jaggeryapps/dashboard/index.jag and in &lt;IS_HOME&gt;repository/deployment/server/jaggeryapps/dashboard/ui-components.json
